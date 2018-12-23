@@ -1,4 +1,5 @@
 #Author: SyntaxTeam
+@Login
 Feature: Login feature
 
   Background: 
